@@ -2,7 +2,7 @@ import ask
 
 
 def main():
-    message = 'Hello world'
+    message = 'Hello World'
     print(message)
 
 
